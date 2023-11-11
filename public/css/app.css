@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 .nav1 {
     display: flex;
     justify-content: space-around;
@@ -145,3 +149,35 @@
 }
 
 /* end of style second section */
+
+/* badr part */
+/* center section css */
+
+.cr-sctn ,.prpl-sec{
+    text-align: center;
+    font-family: sans-serif ;
+}
+
+.pht-prgf {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+    padding: 50px;
+}
+
+.taswira {
+    box-shadow: 1px 1px 30px -5px black
+}
+
+.prpl-sec {
+    padding-top: 40px;
+    background-color: rgb(100, 51, 192);
+    color: white;
+}
+
+.rts {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
