@@ -50,7 +50,7 @@
     height: 5vh;
     width: 10vw;
     border: 0;
-    border-radius: 20%;
+    border-radius: 5%;
     color: white;
     background-color: purple;
 }
@@ -87,3 +87,61 @@
     width: 20%;
     height: 20%;
 }
+
+/* end style first section */
+/* style second section  */
+
+.second_section {
+    width: 98vw;
+    height: 80vh;
+    background-color: rgb(237, 237, 250);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.pdiv1_second_section {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pdiv2_second_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pdiv2_1_second_section {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.cdiv2_second_section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+}
+
+.imgs_s2 {
+    width: 25%;
+    height: 25%;
+    border: 1px;
+    border-radius: 50%;
+}
+
+.pdiv2_child {
+    background-color: rgb(237, 237, 250)
+}
+
+/* end of style second section */
