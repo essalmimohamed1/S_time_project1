@@ -222,3 +222,53 @@ body {
     display: flex;
     flex-direction: column;
 }
+.footer1{
+    background-color: rgba(128, 0, 128, 0.082);
+    height: 600px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.foot1{
+    text-align: center;
+    font-family: sans-serif ;
+}
+.p2{
+    color: gray;
+}
+.inputsimo1{
+    height: 35px;
+    width: 300px;
+    text-align: center;
+    font-family: sans-serif ;
+    border: 1.5px purple solid;
+    border-radius: 5%;
+}
+.button22{
+    height: 35px;
+    width: 300px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-family: sans-serif ;
+}
+.aray-footer {
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    color: rgb(71, 71, 71);
+    font-family: sans-serif;
+    font-weight: 50px;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.aray-footer>div>a {
+    color: rgb(71, 71, 71);
+    text-decoration: none;
+}
+
+.prpl-p {
+    color: purple;
+}
